@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblPassword">Password</string>
+</resources>
